@@ -24,7 +24,7 @@ This project is a comprehensive analysis of video game sales data spanning from 
 - Run the analysis scripts: python analysis_script.py
 
 ## Dataset
-The dataset includes video game sales data categorized by:
+The dataset used in this project is sourced from Kaggle and can be found at Video Game Sales. This dataset contains historical sales data of video games from the 1980s to 2020. It includes detailed information across various dimensions such as :
 
 - Regions: North America, Europe, Japan, and Other regions.
 - Genres: Various game genres such as Action, Adventure, RPG, Sports, etc.
