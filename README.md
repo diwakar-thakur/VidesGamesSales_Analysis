@@ -28,7 +28,7 @@ The dataset includes video game sales data categorized by:
 
 - Regions: North America, Europe, Japan, and Other regions.
 - Genres: Various game genres such as Action, Adventure, RPG, Sports, etc.
-- Publishers: Different game publishers.
+- Publishers: Electronic Arts, Activision, Namco Bandai Games, Ubisoft, Konami Digital Entertainment, THQ, Nintendo, etc.
 
 ## Visualizations
 The project includes a variety of visualizations such as:
