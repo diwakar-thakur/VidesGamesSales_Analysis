@@ -36,6 +36,7 @@ The project includes a variety of visualizations such as:
 - Histograms
 - Bar charts
 - Pie charts
+  
 These visualizations help to uncover insights and trends in the video game industry over the decades.
 
 ## Conclusion
