@@ -18,7 +18,7 @@ This project is a comprehensive analysis of video game sales data spanning from 
 - Seaborn: For making statistical graphics more informative and attractive.
 
 ## Usage
-- Clone the repository: git clone https://github.com/yourusername/videogame-sales-analysis.git
+- Clone the repository: git clone https://github.com/diwakar-thakur/videogame-sales-analysis.git
 - Navigate to the project directory: cd videogame-sales-analysis
 - Install the required libraries: pip install -r requirements.txt
 - Run the analysis scripts: python analysis_script.py
