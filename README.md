@@ -9,7 +9,7 @@ This project is a comprehensive analysis of video game sales data spanning from 
 - Bivariate Analysis: Investigation of relationships between pairs of variables to discover correlations and interactions.
 - Visualization: Comprehensive visualizations using matplotlib and seaborn to illustrate findings clearly and effectively.
 
-##Technologies Used
+## Technologies Used
 - Python: Main programming language for data analysis.
 - NumPy: For numerical operations and array manipulation.
 - Pandas: For data manipulation and analysis.
@@ -38,8 +38,8 @@ The project includes a variety of visualizations such as:
 - Pie charts
 These visualizations help to uncover insights and trends in the video game industry over the decades.
 
-Conclusion
+## Conclusion
 This project provides valuable insights into the video game industry's evolution and sales trends. It serves as a useful resource for researchers, analysts, and enthusiasts interested in the dynamics of video game sales.
 
-Contributions
+## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
